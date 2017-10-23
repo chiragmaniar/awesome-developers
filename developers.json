@@ -8,6 +8,14 @@
 		"email": "jalmarazgon@gmail.com"
 	},
     {
+		"name": "Chirag Maniar",
+		"company": "Student at K. J. Somaiya College Of Engineering",
+		"skills": ["JavaScript", "Python", "SQL", "JAVA", "CPP", "C"],
+		"city": "Mumbai, India",
+		"github": "chiragmaniar",
+		"email": "chirag.maniar@somaiya.edu"
+	},
+    {
 		"name": "Jigar wala",
 		"company": "Student at K. J. Somaiya College Of Engineering",
 		"skills": ["JavaScript", "NodeJS", "PHP", "SQL", "JAVA", "CPP", "C"],
